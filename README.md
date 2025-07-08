@@ -4,7 +4,7 @@ Welcome to my finance portfolio! This repository showcases real-world financial 
 
 ## 🔹 Projects
 
-### 1. Bunge Global Valuation
+### 1. Bunge Global Valuation 
 - Full equity research report with DCF model (segment-based revenue build)
 - Sensitivity and scenario analysis
 - Comparable company benchmarking
